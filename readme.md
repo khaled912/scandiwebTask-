@@ -1,5 +1,5 @@
 # Scandi web 
-Welcome to Scandiweb Junior Developer test assignment!([Scandi web Task](link)) repository.
+Welcome to Scandiweb Junior Developer test assignment!([Scandi web Task](https://github.com/khaled912/scandiwebTask-)) repository.
 this task is inspired by Laravel Framework, MVC architecture pattern.
 SOLID principle applied, usage of design pattern like Factory pattern,
 # Stack Requirements
@@ -9,7 +9,7 @@ SOLID principle applied, usage of design pattern like Factory pattern,
 # Installations
 1. Clone the project into your workplace directory.
     ```
-    git clone git@github.com:BasharSoft/CRM.git
+    git clone git@github.com:https://github.com/khaled912/scandiwebTask-
     cd CRM
     ```
 
