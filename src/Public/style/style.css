@@ -1,0 +1,8 @@
+.border-custom, .border-top {
+    border-top: 2px solid black;
+}
+
+.navbar {
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
